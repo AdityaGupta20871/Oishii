@@ -16,5 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ![Screenshot (60)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/4cd6112c-d90b-49fb-9368-714231480073)
 ![Screenshot (61)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/41bbcafb-c7ea-4357-888e-808f65674e85)
-![Screenshot (58)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/5b647097-745a-4237-8639-08571b76f3ff)
+![Screenshot (63)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/d79abdf2-d32f-4dd7-8e12-8ab7448f3d43)
 ![Screenshot (62)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/732f345d-dbb4-4cd1-99d7-34fcba9d2e3b)
