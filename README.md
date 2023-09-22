@@ -14,21 +14,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (60)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/4cd6112c-d90b-49fb-9368-714231480073)
+![Screenshot (61)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/41bbcafb-c7ea-4357-888e-808f65674e85)
+![Screenshot (58)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/5b647097-745a-4237-8639-08571b76f3ff)
+![Screenshot (62)](https://github.com/AdityaGupta20871/Oishii/assets/103377205/732f345d-dbb4-4cd1-99d7-34fcba9d2e3b)
